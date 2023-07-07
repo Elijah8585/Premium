@@ -1,6 +1,6 @@
 {
-  "Version": "2.0.1",
-  "ReleaseNotes": "Nova Atualização Disponível V 5.0.1",
+  "Version": "3.0.1",
+  "ReleaseNotes": "Nova Atualização Disponível V 3.0.1",
   "UrlUpdate": "https://raw.githubusercontent.com/Elijah8585/Premium/main/premium",
   "Sms": "",
   "EmailFeedback": "elias100ok10@gmail.com",
@@ -70,6 +70,16 @@
       "Name": "VIVO R2",
       "FLAG": "vivo",
       "Payload": "[delay_split][lf]GET / HTTP/1.1[lf]Host: zap.vivo.com.br http://1.1.1.1[crlf] 1.0.0.5[crlf]\\n\\n\\n \\n",
+      "SNI": "",
+      "TlsIP": "",
+      "ProxyIP": "177.153.62.105",
+      "ProxyPort": "80",
+      "Info": "Proxy"
+    },
+    {
+      "Name": "VIVO R3",
+      "FLAG": "vivo",
+      "Payload": "GET http://1.1.1.1[crlf]Host: net.elijahssh.shop;1.0.0.5 HTTP/1.1[crlf]Host: net.elijahssh.shop http://1.1.1.1[crlf]Host: net.elijahssh.shop;1.0.0.5[crlf]",
       "SNI": "",
       "TlsIP": "",
       "ProxyIP": "177.153.62.105",
