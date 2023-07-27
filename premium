@@ -1,6 +1,6 @@
 {
-  "Version": "3.0.1",
-  "ReleaseNotes": "Nova Atualização Disponível V 3.0.1",
+  "Version": "7.0.1",
+  "ReleaseNotes": "Nova Atualização Disponível V 7.0.1",
   "UrlUpdate": "https://raw.githubusercontent.com/Elijah8585/Premium/main/premium",
   "Sms": "",
   "EmailFeedback": "elias100ok10@gmail.com",
@@ -29,7 +29,7 @@
     {
       "Name": "EXECUTIVO 1 FRONT",
       "FLAG": "vivo",
-      "Payload": "GET / HTTP/1.1[crlf]Host: e793o03d4881x391i6.speedup.mobi[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
+      "Payload": "GET / HTTP/1.1[crlf]Host: [rotate=94gnm932216wu94051.speedup.mobi;6x499xp70u8s191431.speedup.mobi;6wn95914e210b2s095.speedup.mobi][crlf]Upgrade: websocket[crlf]Connection: Upgrade[crlf]Accept-Encoding: gzip[crlf][crlf]",
       "SNI": "",
       "TlsIP": "",
       "ProxyIP": "108.158.161.49",
@@ -39,7 +39,7 @@
     {
       "Name": "EXECUTIVO 2 ROTATIVO",
       "FLAG": "vivo",
-      "Payload": "GET / HTTP/1.1[crlf]Host: [rotate=e793o03d4881x391i6.speedup.mobi;e793o03d4881x391i6.speedup.mobi][crlf]Upgrade: websocket[crlf]Connection: Upgrade[crlf]Accept-Encoding: gzip[crlf][crlf]",
+      "Payload": "GET / HTTP/1.1[crlf]Host: [rotate=94gnm932216wu94051.speedup.mobi;6x499xp70u8s191431.speedup.mobi;6wn95914e210b2s095.speedup.mobi][crlf]Upgrade: websocket[crlf]Connection: Upgrade[crlf]Accept-Encoding: gzip[crlf][crlf]",
       "SNI": "",
       "TlsIP": "",
       "ProxyIP": "108.158.122.48",
@@ -49,7 +49,7 @@
     {
       "Name": "EXECUTIVO 3 ROTATIVO",
       "FLAG": "vivo",
-      "Payload": "GET / HTTP/1.1[crlf]Host: [rotate=e793o03d4881x391i6.speedup.mobi;e793o03d4881x391i6.speedup.mobi][crlf]Upgrade: websocket[crlf]Connection: Upgrade[crlf]Accept-Encoding: gzip[crlf][crlf]",
+      "Payload": "GET / HTTP/1.1[crlf]Host: [rotate=94gnm932216wu94051.speedup.mobi;6x499xp70u8s191431.speedup.mobi;6wn95914e210b2s095.speedup.mobi][crlf]Upgrade: websocket[crlf]Connection: Upgrade[crlf]Accept-Encoding: gzip[crlf][crlf]",
       "SNI": "",
       "TlsIP": "",
       "ProxyIP": "108.158.161.49",
