@@ -1,6 +1,6 @@
 {
-  "Version": "9.0.1",
-  "ReleaseNotes": "Nova Atualização Disponível V 9.0.1",
+  "Version": "11.0.1",
+  "ReleaseNotes": "Nova Atualização Disponível V 11.0.1",
   "UrlUpdate": "https://raw.githubusercontent.com/Elijah8585/Premium/main/premium",
   "Sms": "",
   "EmailFeedback": "elias100ok10@gmail.com",
@@ -29,7 +29,7 @@
     {
       "Name": "EXECUTIVO 1 FRONT",
       "FLAG": "vivo",
-      "Payload": "GET / HTTP/1.1[crlf]Host: [rotate=61om966x660y25209f.speedup.mobi;883611p6xx0f60j419.speedup.mobi;669d615f570ht9l201.speedup.mobi;69r9qu6091ke892760.speedup.mobi][crlf]Upgrade: websocket[crlf]Connection: Upgrade[crlf]Accept-Encoding: gzip[crlf][crlf]",
+      "Payload": "GET / HTTP/1.1[crlf]Host: [rotate=883611p6xx0f60j419.speedup.mobi;669d615f570ht9l201.speedup.mobi;69r9qu6091ke892760.speedup.mobi;19hm236570d55gm001.speedup.mobi][crlf]Upgrade: websocket[crlf]Connection: Upgrade[crlf]Accept-Encoding: gzip[crlf][crlf]",
       "SNI": "",
       "TlsIP": "",
       "ProxyIP": "108.158.161.49",
@@ -39,7 +39,7 @@
     {
       "Name": "EXECUTIVO 2 ROTATIVO",
       "FLAG": "vivo",
-      "Payload": "GET / HTTP/1.1[crlf]Host: [rotate=61om966x660y25209f.speedup.mobi;883611p6xx0f60j419.speedup.mobi;669d615f570ht9l201.speedup.mobi;69r9qu6091ke892760.speedup.mobi][crlf]Upgrade: websocket[crlf]Connection: Upgrade[crlf]Accept-Encoding: gzip[crlf][crlf]",
+      "Payload": "GET / HTTP/1.1[crlf]Host: [rotate=883611p6xx0f60j419.speedup.mobi;669d615f570ht9l201.speedup.mobi;69r9qu6091ke892760.speedup.mobi;19hm236570d55gm001.speedup.mobi][crlf]Upgrade: websocket[crlf]Connection: Upgrade[crlf]Accept-Encoding: gzip[crlf][crlf]",
       "SNI": "",
       "TlsIP": "",
       "ProxyIP": "108.158.122.48",
@@ -49,7 +49,7 @@
     {
       "Name": "EXECUTIVO 3 ROTATIVO",
       "FLAG": "vivo",
-      "Payload": "GET / HTTP/1.1[crlf]Host: [rotate=61om966x660y25209f.speedup.mobi;883611p6xx0f60j419.speedup.mobi;669d615f570ht9l201.speedup.mobi;69r9qu6091ke892760.speedup.mobi][crlf]Upgrade: websocket[crlf]Connection: Upgrade[crlf]Accept-Encoding: gzip[crlf][crlf]",
+      "Payload": "GET / HTTP/1.1[crlf]Host: [rotate=883611p6xx0f60j419.speedup.mobi;669d615f570ht9l201.speedup.mobi;69r9qu6091ke892760.speedup.mobi;19hm236570d55gm001.speedup.mobi][crlf]Upgrade: websocket[crlf]Connection: Upgrade[crlf]Accept-Encoding: gzip[crlf][crlf]",
       "SNI": "",
       "TlsIP": "",
       "ProxyIP": "108.158.161.49",
