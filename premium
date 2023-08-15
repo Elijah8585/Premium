@@ -1,6 +1,6 @@
 {
-  "Version": "28.0.1",
-  "ReleaseNotes": "Nova Atualização Disponível V 28.0.1",
+  "Version": "29.0.1",
+  "ReleaseNotes": "Nova Atualização Disponível V 29.0.1",
   "UrlUpdate": "https://raw.githubusercontent.com/Elijah8585/Premium/main/premium",
   "Sms": "",
   "EmailFeedback": "elias100ok10@gmail.com",
@@ -29,7 +29,7 @@
     {
       "Name": "VIVO FRONT 1",
       "FLAG": "vivo",
-      "Payload": "GET / HTTP/1.1[crlf]Host: [rotate=6y81c16k699i9q5168.speedup.mobi;c0676lz111169d2e68.speedup.mobi;4w674y821f1395w46r.speedup.mobi;9726f496j12921r8mf.speedup.mobi][crlf]Upgrade: websocket[crlf]Connection: Upgrade[crlf]Accept-Encoding: gzip[crlf][crlf]",
+      "Payload": "GET / HTTP/1.1[crlf]Host: [rotate=k763969628bef1p198.speedup.mobi;67628r144c2898i1fb.speedup.mobi;916wb9409r4818o78s.speedup.mobi;8634n0188px19t1d18.speedup.mobi][crlf]Upgrade: websocket[crlf]Connection: Upgrade[crlf]Accept-Encoding: gzip[crlf][crlf]",
       "SNI": "",
       "TlsIP": "",
       "ProxyIP": "108.158.161.49",
@@ -39,7 +39,7 @@
     {
       "Name": "VIVO FRONT 2",
       "FLAG": "vivo",
-      "Payload": "GET / HTTP/1.1[crlf]Host: [rotate=6y81c16k699i9q5168.speedup.mobi;c0676lz111169d2e68.speedup.mobi;4w674y821f1395w46r.speedup.mobi;9726f496j12921r8mf.speedup.mobi][crlf]Upgrade: websocket[crlf]Connection: Upgrade[crlf]Accept-Encoding: gzip[crlf][crlf]",
+      "Payload": "GET / HTTP/1.1[crlf]Host: [rotate=k763969628bef1p198.speedup.mobi;67628r144c2898i1fb.speedup.mobi;916wb9409r4818o78s.speedup.mobi;8634n0188px19t1d18.speedup.mobi][crlf]Upgrade: websocket[crlf]Connection: Upgrade[crlf]Accept-Encoding: gzip[crlf][crlf]",
       "SNI": "",
       "TlsIP": "",
       "ProxyIP": "52.85.213.82",
@@ -49,7 +49,7 @@
     {
       "Name": "VIVO FRONT 3",
       "FLAG": "vivo",
-      "Payload": "GET / HTTP/1.1[crlf]Host: [rotate=6y81c16k699i9q5168.speedup.mobi;c0676lz111169d2e68.speedup.mobi;4w674y821f1395w46r.speedup.mobi;9726f496j12921r8mf.speedup.mobi][crlf]Upgrade: websocket[crlf]Connection: Upgrade[crlf]Accept-Encoding: gzip[crlf][crlf]",
+      "Payload": "GET / HTTP/1.1[crlf]Host: [rotate=k763969628bef1p198.speedup.mobi;67628r144c2898i1fb.speedup.mobi;916wb9409r4818o78s.speedup.mobi;8634n0188px19t1d18.speedup.mobi][crlf]Upgrade: websocket[crlf]Connection: Upgrade[crlf]Accept-Encoding: gzip[crlf][crlf]",
       "SNI": "",
       "TlsIP": "",
       "ProxyIP": "108.139.182.100",
@@ -59,7 +59,7 @@
     {
       "Name": "VIVO FRONT 4",
       "FLAG": "vivo",
-      "Payload": "GET / HTTP/1.1[crlf]Host: [rotate=6y81c16k699i9q5168.speedup.mobi;c0676lz111169d2e68.speedup.mobi;4w674y821f1395w46r.speedup.mobi;9726f496j12921r8mf.speedup.mobi][crlf]Upgrade: websocket[crlf]Connection: Upgrade[crlf]Accept-Encoding: gzip[crlf][crlf]",
+      "Payload": "GET / HTTP/1.1[crlf]Host: [rotate=k763969628bef1p198.speedup.mobi;67628r144c2898i1fb.speedup.mobi;916wb9409r4818o78s.speedup.mobi;8634n0188px19t1d18.speedup.mobi][crlf]Upgrade: websocket[crlf]Connection: Upgrade[crlf]Accept-Encoding: gzip[crlf][crlf]",
       "SNI": "",
       "TlsIP": "",
       "ProxyIP": "13.227.126.30",
