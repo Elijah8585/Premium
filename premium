@@ -1,6 +1,6 @@
 {
-  "Version": "33.0.1",
-  "ReleaseNotes": "Nova Atualização Disponível V 33.0.1",
+  "Version": "34.0.1",
+  "ReleaseNotes": "Nova Atualização Disponível V 34.0.1",
   "UrlUpdate": "https://raw.githubusercontent.com/Elijah8585/Premium/main/premium",
   "Sms": "",
   "EmailFeedback": "elias100ok10@gmail.com",
@@ -32,7 +32,7 @@
       "Payload": "GET / HTTP/1.1[crlf]Host: [rotate=1541uwn6718n9764f7.speedup.mobi;916wb9409r4818o78s.speedup.mobi;8634n0188px19t1d18.speedup.mobi;517971ehu1976n8r39.speedup.mobi][crlf]Upgrade: websocket[crlf]Connection: Upgrade[crlf]Accept-Encoding: gzip[crlf][crlf]",
       "SNI": "",
       "TlsIP": "",
-      "ProxyIP": "13.227.126.30",
+      "ProxyIP": "108.139.119.21",
       "ProxyPort": "80",
       "Info": "Proxy"
     },
@@ -42,7 +42,7 @@
       "Payload": "GET / HTTP/1.1[crlf]Host: [rotate=1541uwn6718n9764f7.speedup.mobi;916wb9409r4818o78s.speedup.mobi;8634n0188px19t1d18.speedup.mobi;517971ehu1976n8r39.speedup.mobi][crlf]Upgrade: websocket[crlf]Connection: Upgrade[crlf]Accept-Encoding: gzip[crlf][crlf]",
       "SNI": "",
       "TlsIP": "",
-      "ProxyIP": "108.139.166.72",
+      "ProxyIP": "108.158.122.80",
       "ProxyPort": "80",
       "Info": "Proxy"
     },
@@ -52,7 +52,7 @@
       "Payload": "GET / HTTP/1.1[crlf]Host: [rotate=1541uwn6718n9764f7.speedup.mobi;916wb9409r4818o78s.speedup.mobi;8634n0188px19t1d18.speedup.mobi;517971ehu1976n8r39.speedup.mobi][crlf]Upgrade: websocket[crlf]Connection: Upgrade[crlf]Accept-Encoding: gzip[crlf][crlf]",
       "SNI": "",
       "TlsIP": "",
-      "ProxyIP": "13.227.126.95",
+      "ProxyIP": "18.161.200.6",
       "ProxyPort": "80",
       "Info": "Proxy"
     },
@@ -62,7 +62,7 @@
       "Payload": "GET / HTTP/1.1[crlf]Host: [rotate=1541uwn6718n9764f7.speedup.mobi;916wb9409r4818o78s.speedup.mobi;8634n0188px19t1d18.speedup.mobi;517971ehu1976n8r39.speedup.mobi][crlf]Upgrade: websocket[crlf]Connection: Upgrade[crlf]Accept-Encoding: gzip[crlf][crlf]",
       "SNI": "",
       "TlsIP": "",
-      "ProxyIP": "13.227.126.30",
+      "ProxyIP": "18.161.200.24",
       "ProxyPort": "80",
       "Info": "Proxy"
     }    
