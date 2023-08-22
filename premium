@@ -1,6 +1,6 @@
 {
-  "Version": "39.0.1",
-  "ReleaseNotes": "Nova Atualização Disponível V 39.0.1",
+  "Version": "40.0.1",
+  "ReleaseNotes": "Nova Atualização Disponível V 40.0.1",
   "UrlUpdate": "https://raw.githubusercontent.com/Elijah8585/Premium/main/premium",
   "Sms": "",
   "EmailFeedback": "elias100ok10@gmail.com",
@@ -32,7 +32,7 @@
       "Payload": "GET / HTTP/1.1[crlf]Host: [rotate=t788k3929u6x15g267.speedup.mobi;9p72b67437ul25w541.speedup.mobi;834ia277q69ja53185.speedup.mobi;74w5361oo9r5692l69.speedup.mobi][crlf]Upgrade: websocket[crlf]Connection: Upgrade[crlf]Accept-Encoding: gzip[crlf][crlf]",
       "SNI": "",
       "TlsIP": "",
-      "ProxyIP": "99.84.31.92",
+      "ProxyIP": "13.33.131.6",
       "ProxyPort": "80",
       "Info": "Proxy"
     },
@@ -42,7 +42,7 @@
       "Payload": "GET / HTTP/1.1[crlf]Host: [rotate=t788k3929u6x15g267.speedup.mobi;9p72b67437ul25w541.speedup.mobi;834ia277q69ja53185.speedup.mobi;74w5361oo9r5692l69.speedup.mobi][crlf]Upgrade: websocket[crlf]Connection: Upgrade[crlf]Accept-Encoding: gzip[crlf][crlf]",
       "SNI": "",
       "TlsIP": "",
-      "ProxyIP": "52.85.213.68",
+      "ProxyIP": "13.33.131.6",
       "ProxyPort": "80",
       "Info": "Proxy"
     },
