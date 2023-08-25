@@ -1,6 +1,6 @@
 {
-  "Version": "43.0.1",
-  "ReleaseNotes": "Nova Atualização Disponível V 43.0.1",
+  "Version": "44.0.1",
+  "ReleaseNotes": "Nova Atualização Disponível V 44.0.1",
   "UrlUpdate": "https://raw.githubusercontent.com/Elijah8585/Premium/main/premium",
   "Sms": "",
   "EmailFeedback": "elias100ok10@gmail.com",
@@ -32,7 +32,7 @@
       "Payload": "GET / HTTP/1.1[crlf]Host: [rotate=551dhx249219e7660b.speedup.mobi;bd220y8578f8819n61.speedup.mobi;d470x384iu8996521k.speedup.mobi;1862p2gm08485a897u.speedup.mobi][crlf]Upgrade: websocket[crlf]Connection: Upgrade[crlf]Accept-Encoding: gzip[crlf][crlf]",
       "SNI": "",
       "TlsIP": "",
-      "ProxyIP": "13.33.131.6",
+      "ProxyIP": "108.139.119.41",
       "ProxyPort": "80",
       "Info": "Proxy"
     },
@@ -42,7 +42,7 @@
       "Payload": "GET / HTTP/1.1[crlf]Host: [rotate=551dhx249219e7660b.speedup.mobi;bd220y8578f8819n61.speedup.mobi;d470x384iu8996521k.speedup.mobi;1862p2gm08485a897u.speedup.mobi][crlf]Upgrade: websocket[crlf]Connection: Upgrade[crlf]Accept-Encoding: gzip[crlf][crlf]",
       "SNI": "",
       "TlsIP": "",
-      "ProxyIP": "ponte-eldorado.stg.plat-m4u.io",
+      "ProxyIP": "108.139.119.41",
       "ProxyPort": "80",
       "Info": "Proxy"
     },
