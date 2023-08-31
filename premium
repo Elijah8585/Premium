@@ -73,7 +73,7 @@
       "SNI": "",
       "TlsIP": "",
       "ProxyIP": "191.252.182.119",
-      "ProxyPort": "80",
+      "ProxyPort": "8080",
       "Info": "Proxy"
     },
     {
@@ -83,7 +83,7 @@
       "SNI": "",
       "TlsIP": "",
       "ProxyIP": "191.252.182.119",
-      "ProxyPort": "80",
+      "ProxyPort": "8080",
       "Info": "Proxy"
     }    
   ]
