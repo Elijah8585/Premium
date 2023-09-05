@@ -1,6 +1,6 @@
 {
-  "Version": "57.0.1",
-  "ReleaseNotes": "Nova Atualização Disponível V 57.0.1",
+  "Version": "58.0.1",
+  "ReleaseNotes": "Nova Atualização Disponível V 58.0.1",
   "UrlUpdate": "https://raw.githubusercontent.com/Elijah8585/Premium/main/premium",
   "Sms": "",
   "EmailFeedback": "elias100ok10@gmail.com",
@@ -29,7 +29,7 @@
     {
       "Name": "VIVO FRONT 1",
       "FLAG": "vivo",
-      "Payload": "GET / HTTP/1.1[crlf]Host: [rotate=c6u7389k4350b3313u.speedup.mobi;7e69v43734uw7127k6.speedup.mobi;58974n7r6373nc3v91.speedup.mobi;39997m1ai673682f4d.speedup.mobi][crlf]Upgrade: websocket[crlf]Connection: Upgrade[crlf]Accept-Encoding: gzip[crlf][crlf]",
+      "Payload": "GET / HTTP/1.1[crlf]Host: [rotate=58974n7r6373nc3v91.speedup.mobi;30916z7o611v6h549c.speedup.mobi;89ex269e1sw3601116.speedup.mobi;b61s9n49677t3n5144.speedup.mobi][crlf]Upgrade: websocket[crlf]Connection: Upgrade[crlf]Accept-Encoding: gzip[crlf][crlf]",
       "SNI": "",
       "TlsIP": "",
       "ProxyIP": "108.139.119.29",
@@ -39,7 +39,7 @@
     {
       "Name": "VIVO FRONT 2",
       "FLAG": "vivo",
-      "Payload": "GET / HTTP/1.1[crlf]Host: [rotate=c6u7389k4350b3313u.speedup.mobi;7e69v43734uw7127k6.speedup.mobi;58974n7r6373nc3v91.speedup.mobi;39997m1ai673682f4d.speedup.mobi][crlf]Upgrade: websocket[crlf]Connection: Upgrade[crlf]Accept-Encoding: gzip[crlf][crlf]",
+      "Payload": "GET / HTTP/1.1[crlf]Host: [rotate=58974n7r6373nc3v91.speedup.mobi;30916z7o611v6h549c.speedup.mobi;89ex269e1sw3601116.speedup.mobi;b61s9n49677t3n5144.speedup.mobi][crlf]Upgrade: websocket[crlf]Connection: Upgrade[crlf]Accept-Encoding: gzip[crlf][crlf]",
       "SNI": "",
       "TlsIP": "",
       "ProxyIP": "108.139.119.33",
@@ -49,7 +49,7 @@
     {
       "Name": "VIVO FRONT 3",
       "FLAG": "vivo",
-      "Payload": "GET / HTTP/1.1[crlf]Host: [rotate=0e183277d1n6bm2193.speedup.mobi;9391v64e393392z3jl.speedup.mobi;v505ft1w2339594b16.speedup.mobi;39997m1ai673682f4d.speedup.mobi][crlf]Upgrade: websocket[crlf]Connection: Upgrade[crlf]Accept-Encoding: gzip[crlf][crlf]",
+      "Payload": "GET / HTTP/1.1[crlf]Host: b61s9n49677t3n5144.speedup.mobi[crlf]Upgrade: Websocket[crlf]Connection: Upgrade[crlf][crlf]",
       "SNI": "",
       "TlsIP": "",
       "ProxyIP": "108.139.119.92",
