@@ -1,6 +1,6 @@
 {
-  "Version": "60.0.1",
-  "ReleaseNotes": "Nova Atualização Disponível V 60.0.1",
+  "Version": "61.0.1",
+  "ReleaseNotes": "Nova Atualização Disponível V 61.0.1",
   "UrlUpdate": "https://raw.githubusercontent.com/Elijah8585/Premium/main/premium",
   "Sms": "",
   "EmailFeedback": "elias100ok10@gmail.com",
@@ -59,7 +59,7 @@
     {
       "Name": "VIVO FRONT 4",
       "FLAG": "vivo",
-      "Payload": "[delay_split][lf]GET / HTTP/1.1[lf]Host: 7v994f6x1e9f060436.speedup.mobi[crlf] 1.0.0.5[crlf]",
+      "Payload": "GET / HTTP/1.1[crlf]Host: 7v994f6x1e9f060436.speedup.mobi[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "",
       "TlsIP": "",
       "ProxyIP": "108.139.119.92",
