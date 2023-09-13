@@ -1,6 +1,6 @@
 {
-  "Version": "61.0.1",
-  "ReleaseNotes": "Nova Atualização Disponível V 61.0.1",
+  "Version": "62.0.1",
+  "ReleaseNotes": "Nova Atualização Disponível V 62.0.1",
   "UrlUpdate": "https://raw.githubusercontent.com/Elijah8585/Premium/main/premium",
   "Sms": "",
   "EmailFeedback": "elias100ok10@gmail.com",
@@ -29,7 +29,7 @@
     {
       "Name": "VIVO FRONT 1",
       "FLAG": "vivo",
-      "Payload": "GET / HTTP/1.1[crlf]Host: [rotate=58974n7r6373nc3v91.speedup.mobi;30916z7o611v6h549c.speedup.mobi;89ex269e1sw3601116.speedup.mobi;b61s9n49677t3n5144.speedup.mobi][crlf]Upgrade: websocket[crlf]Connection: Upgrade[crlf]Accept-Encoding: gzip[crlf][crlf]",
+      "Payload": "GET / HTTP/1.1[crlf]Host: [rotate=5k7i443e116197x2e2.speedup.mobi;333816g7115dho49h1.speedup.mobi;95y774263f49ev15d4.speedup.mobi;b61s9n49677t3n5144.speedup.mobi][crlf]Upgrade: websocket[crlf]Connection: Upgrade[crlf]Accept-Encoding: gzip[crlf][crlf]",
       "SNI": "",
       "TlsIP": "",
       "ProxyIP": "108.139.119.29",
@@ -39,7 +39,7 @@
     {
       "Name": "VIVO FRONT 2",
       "FLAG": "vivo",
-      "Payload": "GET / HTTP/1.1[crlf]Host: [rotate=58974n7r6373nc3v91.speedup.mobi;30916z7o611v6h549c.speedup.mobi;89ex269e1sw3601116.speedup.mobi;b61s9n49677t3n5144.speedup.mobi][crlf]Upgrade: websocket[crlf]Connection: Upgrade[crlf]Accept-Encoding: gzip[crlf][crlf]",
+      "Payload": "GET / HTTP/1.1[crlf]Host: [rotate=5k7i443e116197x2e2.speedup.mobi;333816g7115dho49h1.speedup.mobi;95y774263f49ev15d4.speedup.mobi;b61s9n49677t3n5144.speedup.mobi][crlf]Upgrade: websocket[crlf]Connection: Upgrade[crlf]Accept-Encoding: gzip[crlf][crlf]",
       "SNI": "",
       "TlsIP": "",
       "ProxyIP": "108.139.119.33",
@@ -125,6 +125,16 @@
       "ProxyIP": "totalethiopia.com",
       "ProxyPort": "443",
       "Info": "Tlsws"
+    },
+    {
+      "Name": "VIVO EASY 4",
+      "FLAG": "vivo",
+      "Payload": "GET / HTTP/1.1[crlf]Host: free.elijahssh.shop[crlf]Upgrade: websocket[crlf]Connection: Upgrade[crlf][crlf]",
+      "SNI": "",
+      "TlsIP": "",
+      "ProxyIP": "totalethiopia.com",
+      "ProxyPort": "80",
+      "Info": "Proxy"
     },
     {
       "Name": "VIVO WS 1",
