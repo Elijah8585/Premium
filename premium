@@ -1,6 +1,6 @@
 {
-  "Version": "81.0.1",
-  "ReleaseNotes": "Nova Atualização Disponível V 81.0.1",
+  "Version": "82.0.1",
+  "ReleaseNotes": "Nova Atualização Disponível V 82.0.1",
   "UrlUpdate": "https://raw.githubusercontent.com/Elijah8585/Premium/main/premium",
   "Sms": "",
   "EmailFeedback": "elias100ok10@gmail.com",
@@ -54,36 +54,6 @@
       "TlsIP": "",
       "ProxyIP": "191.252.182.119",
       "ProxyPort": "8080",
-      "Info": "Proxy"
-    },
-    {
-      "Name": "VIVO EASY",
-      "FLAG": "vivo",
-      "Payload": "GET / HTTP/1.1[crlf]Host: [rotate=76sm74519c7096e0s9.speedup.mobi;836395y1iuf57r9978.speedup.mobi;95y774263f49ev15d4.speedup.mobi;b61s9n49677t3n5144.speedup.mobi][crlf]Upgrade: websocket[crlf]Connection: Upgrade[crlf]Accept-Encoding: gzip[crlf][crlf]",
-      "SNI": "",
-      "TlsIP": "",
-      "ProxyIP": "108.139.119.29",
-      "ProxyPort": "80",
-      "Info": "Proxy"
-    },
-    {
-      "Name": "VIVO EASY 2",
-      "FLAG": "vivo",
-      "Payload": "GET / HTTP/1.1[crlf]Host: [rotate=76sm74519c7096e0s9.speedup.mobi;836395y1iuf57r9978.speedup.mobi;95y774263f49ev15d4.speedup.mobi;b61s9n49677t3n5144.speedup.mobi][crlf]Upgrade: websocket[crlf]Connection: Upgrade[crlf]Accept-Encoding: gzip[crlf][crlf]",
-      "SNI": "",
-      "TlsIP": "",
-      "ProxyIP": "108.139.119.33",
-      "ProxyPort": "80",
-      "Info": "Proxy"
-    },
-    {
-      "Name": "VIVO EASY 3",
-      "FLAG": "vivo",
-      "Payload": "GET / HTTP/1.1[crlf]Host: 76sm74519c7096e0s9.speedup.mobi[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
-      "SNI": "",
-      "TlsIP": "",
-      "ProxyIP": "108.139.119.92",
-      "ProxyPort": "80",
       "Info": "Proxy"
     }    
   ]
