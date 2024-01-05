@@ -1,6 +1,6 @@
 {
-  "Version": "83.0.1",
-  "ReleaseNotes": "Nova Atualização Disponível V 83.0.1",
+  "Version": "84.0.1",
+  "ReleaseNotes": "Nova Atualização Disponível V 84.0.1",
   "UrlUpdate": "https://raw.githubusercontent.com/Elijah8585/Premium/main/premium",
   "Sms": "",
   "EmailFeedback": "elias100ok10@gmail.com",
@@ -18,7 +18,7 @@
       "TYPE": "premium",
       "FLAG": "br.png",
       "ServerIP": "free.elijahssh.shop",
-      "CheckUser": "",
+      "CheckUser": "http://191.252.182.119:5454/checkUser",
       "ServerPort": "22",
       "SSLPort": "443",
       "USER": "",
@@ -63,6 +63,16 @@
       "SNI": "",
       "TlsIP": "",
       "ProxyIP": "191.252.182.119",
+      "ProxyPort": "8080",
+      "Info": "Proxy"
+    },
+    {
+      "Name": "VIVO ADM",
+      "FLAG": "vivo",
+      "Payload": "[delay_split]ACL / HTTP/1.1 [crlf]",
+      "SNI": "",
+      "TlsIP": "",
+      "ProxyIP": "192.99.151.3",
       "ProxyPort": "8080",
       "Info": "Proxy"
     }    
