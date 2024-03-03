@@ -1,6 +1,6 @@
 {
-  "Version": "84.0.1",
-  "ReleaseNotes": "Nova Atualização Disponível V 84.0.1",
+  "Version": "85.0.1",
+  "ReleaseNotes": "Nova Atualização Disponível V 85.0.1",
   "UrlUpdate": "https://raw.githubusercontent.com/Elijah8585/Premium/main/premium",
   "Sms": "",
   "EmailFeedback": "elias100ok10@gmail.com",
@@ -18,7 +18,7 @@
       "TYPE": "premium",
       "FLAG": "br.png",
       "ServerIP": "free.elijahssh.shop",
-      "CheckUser": "http://191.252.182.119:5454/checkUser",
+      "CheckUser": "http://191.252.184.198:5454/checkUser",
       "ServerPort": "22",
       "SSLPort": "443",
       "USER": "",
@@ -32,7 +32,7 @@
       "Payload": "[delay_split][lf]GET / HTTP/1.1[lf]Host: portal.vivo.com.br\\n\\n\\n \\n",
       "SNI": "",
       "TlsIP": "",
-      "ProxyIP": "191.252.182.119",
+      "ProxyIP": "191.252.184.198",
       "ProxyPort": "8080",
       "Info": "Proxy"
     },
@@ -42,7 +42,7 @@
       "Payload": "[delay_split][lf][rotate=GET;ACL;PUT] / HTTP/1.1[lf]Host: portalrecarga.vivo.com.br[crlf]Upgrade: Upgrade[crlf]Connection: Upgrade[crlf][lf]",
       "SNI": "",
       "TlsIP": "",
-      "ProxyIP": "191.252.182.119",
+      "ProxyIP": "191.252.184.198",
       "ProxyPort": "8080",
       "Info": "Proxy"
     },
@@ -52,7 +52,7 @@
       "Payload": "[delay_split][lf]GET / HTTP/1.1[crlf][crlf]Upgrade: Websocket[crlf]Connection: Upgrade[crlf] [crlf]",
       "SNI": "",
       "TlsIP": "",
-      "ProxyIP": "191.252.182.119",
+      "ProxyIP": "191.252.184.198",
       "ProxyPort": "8080",
       "Info": "Proxy"
     },
@@ -62,7 +62,7 @@
       "Payload": "[delay_split]ACL / HTTP/1.1 [crlf]",
       "SNI": "",
       "TlsIP": "",
-      "ProxyIP": "191.252.182.119",
+      "ProxyIP": "191.252.184.198",
       "ProxyPort": "8080",
       "Info": "Proxy"
     },
@@ -72,7 +72,7 @@
       "Payload": "[delay_split]ACL / HTTP/1.1 [crlf]",
       "SNI": "",
       "TlsIP": "",
-      "ProxyIP": "192.99.151.3",
+      "ProxyIP": "191.252.184.198",
       "ProxyPort": "8080",
       "Info": "Proxy"
     }    
