@@ -17,8 +17,8 @@
       "Name": "Servidor PLUS",
       "TYPE": "premium",
       "FLAG": "br.png",
-      "ServerIP": "free.elijahssh.shop",
-      "CheckUser": "http://191.252.184.198:5454/checkUser",
+      "ServerIP": "elijahssh.shop",
+      "CheckUser": "http://167.114.129.102:5454/checkUser",
       "ServerPort": "22",
       "SSLPort": "443",
       "USER": "",
@@ -32,48 +32,38 @@
       "Payload": "[delay_split][lf]GET / HTTP/1.1[lf]Host: portal.vivo.com.br\\n\\n\\n \\n",
       "SNI": "",
       "TlsIP": "",
-      "ProxyIP": "191.252.184.198",
+      "ProxyIP": "167.114.129.102",
       "ProxyPort": "8080",
       "Info": "Proxy"
     },
     {
       "Name": "VIVO PRÉ 2",
       "FLAG": "vivo",
-      "Payload": "[delay_split][lf][rotate=GET;ACL;PUT] / HTTP/1.1[lf]Host: portalrecarga.vivo.com.br[crlf]Upgrade: Upgrade[crlf]Connection: Upgrade[crlf][lf]",
-      "SNI": "",
-      "TlsIP": "",
-      "ProxyIP": "191.252.184.198",
-      "ProxyPort": "8080",
-      "Info": "Proxy"
-    },
-    {
-      "Name": "VIVO PRÉ 3",
-      "FLAG": "vivo",
-      "Payload": "[delay_split][lf]GET / HTTP/1.1[crlf][crlf]Upgrade: Websocket[crlf]Connection: Upgrade[crlf] [crlf]",
-      "SNI": "",
-      "TlsIP": "",
-      "ProxyIP": "191.252.184.198",
-      "ProxyPort": "8080",
-      "Info": "Proxy"
-    },
-    {
-      "Name": "VIVO PRÉ 4",
-      "FLAG": "vivo",
       "Payload": "[delay_split]ACL / HTTP/1.1 [crlf]",
       "SNI": "",
       "TlsIP": "",
-      "ProxyIP": "191.252.184.198",
+      "ProxyIP": "167.114.129.102",
       "ProxyPort": "8080",
       "Info": "Proxy"
     },
     {
-      "Name": "VIVO ADM",
+      "Name": "VIVO CLOUDFLARES",
       "FLAG": "vivo",
-      "Payload": "[delay_split]ACL / HTTP/1.1 [crlf]",
+      "Payload": "PATCH / HTTP/1.1[lf]Host: [app_host][lf]Connection: Upgrade[lf]Upgrade: Websocket[lf][split][lf]",
       "SNI": "",
       "TlsIP": "",
-      "ProxyIP": "191.252.184.198",
-      "ProxyPort": "8080",
+      "ProxyIP": "104.18.99.70",
+      "ProxyPort": "80",
+      "Info": "Proxy"
+    },
+    {
+      "Name": "VIVO CLOUDFRONT",
+      "FLAG": "vivo",
+      "Payload": "PATCH / HTTP/1.1[lf]Host: 25m712841uf207y8q0.speedup.mobi[lf]Connection: Upgrade[lf]Upgrade: Websocket[lf][split][lf]",
+      "SNI": "",
+      "TlsIP": "",
+      "ProxyIP": "108.139.182.100",
+      "ProxyPort": "80",
       "Info": "Proxy"
     }    
   ]
