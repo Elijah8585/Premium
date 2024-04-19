@@ -59,7 +59,7 @@
     {
       "Name": "VIVO CLOUDFRONT",
       "FLAG": "vivo",
-      "Payload": "PATCH / HTTP/1.1[lf]Host: 25m712841uf207y8q0.speedup.mobi[lf]Connection: Upgrade[lf]Upgrade: Websocket[lf][split][lf]",
+      "Payload": "PATCH / HTTP/1.1[lf]Host: et17o6141s5425316c.speedup.mobi[lf]Connection: Upgrade[lf]Upgrade: Websocket[lf][split][lf]",
       "SNI": "",
       "TlsIP": "",
       "ProxyIP": "108.139.182.100",
