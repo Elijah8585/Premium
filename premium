@@ -1,6 +1,6 @@
 {
-  "Version": "92.1.1",
-  "ReleaseNotes": "Nova Atualização Disponível V 91.1.1",
+  "Version": "93.1.1",
+  "ReleaseNotes": "Nova Atualização Disponível V 93.1.1",
   "UrlUpdate": "https://raw.githubusercontent.com/Elijah8585/Premium/main/premium",
   "Sms": "",
   "EmailFeedback": "elias100ok10@gmail.com",
@@ -40,16 +40,6 @@
       "Name": "VIVO WSS PRÉ 2",
       "FLAG": "vivo",
       "Payload": "[delay_split]ACL / HTTP/1.1 [crlf]",
-      "SNI": "",
-      "TlsIP": "",
-      "ProxyIP": "167.114.129.102",
-      "ProxyPort": "8080",
-      "Info": "Proxy"
-    },
-    {
-      "Name": "VIVO WSS PRÉ 3",
-      "FLAG": "vivo",
-      "Payload": "HTTP/7 911[crlf]F[crlf]D[crlf]",
       "SNI": "",
       "TlsIP": "",
       "ProxyIP": "167.114.129.102",
