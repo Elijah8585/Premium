@@ -1,5 +1,5 @@
 {
-  "Version": "91.1.1",
+  "Version": "92.1.1",
   "ReleaseNotes": "Nova Atualização Disponível V 91.1.1",
   "UrlUpdate": "https://raw.githubusercontent.com/Elijah8585/Premium/main/premium",
   "Sms": "",
@@ -27,7 +27,7 @@
   ],
   "Networks": [
     {
-      "Name": "VIVO PRÉ",
+      "Name": "VIVO WSS PRÉ",
       "FLAG": "vivo",
       "Payload": "[delay_split][lf]GET / HTTP/1.1[lf]Host: portal.vivo.com.br\\n\\n\\n \\n",
       "SNI": "",
@@ -37,9 +37,29 @@
       "Info": "Proxy"
     },
     {
-      "Name": "VIVO PRÉ 2",
+      "Name": "VIVO WSS PRÉ 2",
       "FLAG": "vivo",
       "Payload": "[delay_split]ACL / HTTP/1.1 [crlf]",
+      "SNI": "",
+      "TlsIP": "",
+      "ProxyIP": "167.114.129.102",
+      "ProxyPort": "8080",
+      "Info": "Proxy"
+    },
+    {
+      "Name": "VIVO WSS PRÉ 3",
+      "FLAG": "vivo",
+      "Payload": "HTTP/7 911[crlf]F[crlf]D[crlf]",
+      "SNI": "",
+      "TlsIP": "",
+      "ProxyIP": "167.114.129.102",
+      "ProxyPort": "8080",
+      "Info": "Proxy"
+    },
+    {
+      "Name": "VIVO WS TURBO",
+      "FLAG": "vivo",
+      "Payload": "[delay_split]ACL / HTTP/7 911[crlf]F[crlf]D[crlf]Connection: Upgrade[lf]Upgrade: Websocket[lf][lf]",
       "SNI": "",
       "TlsIP": "",
       "ProxyIP": "167.114.129.102",
@@ -59,7 +79,7 @@
     {
       "Name": "VIVO CLOUDFRONT",
       "FLAG": "vivo",
-      "Payload": "PATCH / HTTP/1.1[lf]Host: 93s753x68a71s6c714.speedup.mobi[lf]Connection: Upgrade[lf]Upgrade: Websocket[lf][split][lf]",
+      "Payload": "PATCH / HTTP/1.1[lf]Host: s7ya4733753j1i1672.speedup.mobi[lf]Connection: Upgrade[lf]Upgrade: Websocket[lf][split][lf]",
       "SNI": "",
       "TlsIP": "",
       "ProxyIP": "108.139.182.100",
