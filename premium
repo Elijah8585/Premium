@@ -1,6 +1,6 @@
 {
-  "Version": "94.2.1",
-  "ReleaseNotes": "Nova Atualização Disponível V 94.2.1",
+  "Version": "95.1.1",
+  "ReleaseNotes": "Nova Atualização Disponível V 95.1.1",
   "UrlUpdate": "https://raw.githubusercontent.com/Elijah8585/Premium/main/premium",
   "Sms": "",
   "EmailFeedback": "elias100ok10@gmail.com",
@@ -18,7 +18,7 @@
       "TYPE": "premium",
       "FLAG": "br.png",
       "ServerIP": "telenet.fun",
-      "CheckUser": "http://167.114.129.102:5454/checkUser",
+      "CheckUser": "http://191.252.110.237:5454/checkUser",
       "ServerPort": "22",
       "SSLPort": "443",
       "USER": "",
@@ -32,7 +32,7 @@
       "Payload": "[delay_split][lf]GET / HTTP/1.1[lf]Host: portal.vivo.com.br\\n\\n\\n \\n",
       "SNI": "",
       "TlsIP": "",
-      "ProxyIP": "167.114.129.102",
+      "ProxyIP": "191.252.110.237",
       "ProxyPort": "8080",
       "Info": "Proxy"
     },
@@ -42,7 +42,7 @@
       "Payload": "[delay_split]ACL / HTTP/1.1 [crlf]",
       "SNI": "",
       "TlsIP": "",
-      "ProxyIP": "167.114.129.102",
+      "ProxyIP": "191.252.110.237",
       "ProxyPort": "8080",
       "Info": "Proxy"
     },
@@ -52,7 +52,7 @@
       "Payload": "[delay_split]ACL / HTTP/7 911[crlf]F[crlf]D[crlf]Connection: Upgrade[lf]Upgrade: Websocket[lf][lf]",
       "SNI": "",
       "TlsIP": "",
-      "ProxyIP": "167.114.129.102",
+      "ProxyIP": "191.252.110.237",
       "ProxyPort": "8080",
       "Info": "Proxy"
     },
